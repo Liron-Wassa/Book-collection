@@ -9,7 +9,8 @@ Live link: https://liron-wassa.github.io/Library/#/
 - Redux
 
 ## Illustration
-<img src="https://user-images.githubusercontent.com/56726154/77358871-5b517680-6d53-11ea-9f06-5675ddddf41c.png" width="500"/>
+<img src="https://user-images.githubusercontent.com/56726154/98464446-ad081d80-21cb-11eb-8883-5f051da1d5ae.png" width="500"/>
+<img src="https://user-images.githubusercontent.com/56726154/98464446-ad081d80-21cb-11eb-8883-5f051da1d5ae.png" width="500"/>
 
 ## How to use?
 - click on the "Remove" button in order to remove book from favorite
