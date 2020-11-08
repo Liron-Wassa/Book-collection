@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Liron-Wassa/Book-collection/static/css/main.2203b0dc.chunk.css",
+    "main.js": "/Liron-Wassa/Book-collection/static/js/main.aed2effd.chunk.js",
+    "main.js.map": "/Liron-Wassa/Book-collection/static/js/main.aed2effd.chunk.js.map",
+    "runtime-main.js": "/Liron-Wassa/Book-collection/static/js/runtime-main.70b79a2f.js",
+    "runtime-main.js.map": "/Liron-Wassa/Book-collection/static/js/runtime-main.70b79a2f.js.map",
+    "static/js/2.a6c58c28.chunk.js": "/Liron-Wassa/Book-collection/static/js/2.a6c58c28.chunk.js",
+    "static/js/2.a6c58c28.chunk.js.map": "/Liron-Wassa/Book-collection/static/js/2.a6c58c28.chunk.js.map",
+    "index.html": "/Liron-Wassa/Book-collection/index.html",
+    "precache-manifest.f52628f222f8971983d450a1507ba7eb.js": "/Liron-Wassa/Book-collection/precache-manifest.f52628f222f8971983d450a1507ba7eb.js",
+    "service-worker.js": "/Liron-Wassa/Book-collection/service-worker.js",
+    "static/css/main.2203b0dc.chunk.css.map": "/Liron-Wassa/Book-collection/static/css/main.2203b0dc.chunk.css.map",
+    "static/js/2.a6c58c28.chunk.js.LICENSE.txt": "/Liron-Wassa/Book-collection/static/js/2.a6c58c28.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.70b79a2f.js",
+    "static/js/2.a6c58c28.chunk.js",
+    "static/css/main.2203b0dc.chunk.css",
+    "static/js/main.aed2effd.chunk.js"
+  ]
+}
