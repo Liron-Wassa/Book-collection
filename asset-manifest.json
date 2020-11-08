@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "//Book-collection/static/css/main.2203b0dc.chunk.css",
-    "main.js": "//Book-collection/static/js/main.aed2effd.chunk.js",
-    "main.js.map": "//Book-collection/static/js/main.aed2effd.chunk.js.map",
-    "runtime-main.js": "//Book-collection/static/js/runtime-main.4deed31b.js",
-    "runtime-main.js.map": "//Book-collection/static/js/runtime-main.4deed31b.js.map",
-    "static/js/2.a6c58c28.chunk.js": "//Book-collection/static/js/2.a6c58c28.chunk.js",
-    "static/js/2.a6c58c28.chunk.js.map": "//Book-collection/static/js/2.a6c58c28.chunk.js.map",
-    "index.html": "//Book-collection/index.html",
-    "precache-manifest.a28b09aa62da03e81fb731564dfb826e.js": "//Book-collection/precache-manifest.a28b09aa62da03e81fb731564dfb826e.js",
-    "service-worker.js": "//Book-collection/service-worker.js",
-    "static/css/main.2203b0dc.chunk.css.map": "//Book-collection/static/css/main.2203b0dc.chunk.css.map",
-    "static/js/2.a6c58c28.chunk.js.LICENSE.txt": "//Book-collection/static/js/2.a6c58c28.chunk.js.LICENSE.txt"
+    "main.css": "/Book-collection/static/css/main.2203b0dc.chunk.css",
+    "main.js": "/Book-collection/static/js/main.aed2effd.chunk.js",
+    "main.js.map": "/Book-collection/static/js/main.aed2effd.chunk.js.map",
+    "runtime-main.js": "/Book-collection/static/js/runtime-main.d1f074f0.js",
+    "runtime-main.js.map": "/Book-collection/static/js/runtime-main.d1f074f0.js.map",
+    "static/js/2.a6c58c28.chunk.js": "/Book-collection/static/js/2.a6c58c28.chunk.js",
+    "static/js/2.a6c58c28.chunk.js.map": "/Book-collection/static/js/2.a6c58c28.chunk.js.map",
+    "index.html": "/Book-collection/index.html",
+    "precache-manifest.28c678696897d6cb789130aafe00117e.js": "/Book-collection/precache-manifest.28c678696897d6cb789130aafe00117e.js",
+    "service-worker.js": "/Book-collection/service-worker.js",
+    "static/css/main.2203b0dc.chunk.css.map": "/Book-collection/static/css/main.2203b0dc.chunk.css.map",
+    "static/js/2.a6c58c28.chunk.js.LICENSE.txt": "/Book-collection/static/js/2.a6c58c28.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.4deed31b.js",
+    "static/js/runtime-main.d1f074f0.js",
     "static/js/2.a6c58c28.chunk.js",
     "static/css/main.2203b0dc.chunk.css",
     "static/js/main.aed2effd.chunk.js"
