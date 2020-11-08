@@ -1,0 +1,43 @@
+.CollectionDetails {
+    margin-bottom: 20px;
+    
+    .Container {
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
+        gap: 2rem;
+    }
+
+    .Header {
+        display: flex;
+        box-shadow: 0 0 5px #000;
+        flex-direction: column;
+        justify-content: space-around;
+        align-items: center;
+        background-color: rgb(233, 233, 233);
+        margin-bottom: 20px;
+
+        h1 {
+            width: 100%;
+            margin: 0;
+            color: #fff;
+            text-shadow: 0 0 5px #000;
+            text-align: center;
+            padding: 10px 0 10px 0;
+            box-sizing: border-box;
+        }
+
+        .Icons {
+            display: flex;
+            padding: 0 0 10px 0;
+            box-sizing: border-box;
+            justify-content: space-around;
+            align-items: center;
+            width: 100px;
+
+            i {
+                cursor: pointer;
+            }
+        }
+    }
+}

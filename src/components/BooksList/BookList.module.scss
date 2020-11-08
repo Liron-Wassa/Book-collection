@@ -1,0 +1,11 @@
+.BooksList {
+    .Container {
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
+        gap: 2rem;
+    }
+    .Spinner {
+        margin: 10px 0 10px 0;
+    }
+}

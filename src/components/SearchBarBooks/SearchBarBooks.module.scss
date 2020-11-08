@@ -1,0 +1,45 @@
+.Form {
+    width: 80%;
+    box-sizing: border-box;
+    border-radius: 4px;
+    padding: 20px;
+    margin: 100px auto 50px auto;
+
+    .Box {
+        display: flex;
+
+        .Btn {
+            width: 80px;
+            height: 40px;
+
+            button {
+                margin: 0;
+                border-top-right-radius: 3px;
+                border-bottom-right-radius: 3px;
+            }
+        }
+
+        .Input {
+            position: relative;
+            height: 40px;
+            width: 100%;
+
+            input {
+                border: 1px solid rgb(170, 168, 168);
+                border-top-left-radius: 3px;
+                border-bottom-left-radius: 3px;
+                border-right-style: none;
+                font-size: 1rem;
+                padding-left: 30px;
+            }
+        }
+
+        .Icon {
+            position: absolute;
+            top: 10px;
+            left: 10px;
+            font-size: 16px;
+            color: #999;
+        }
+    }
+}

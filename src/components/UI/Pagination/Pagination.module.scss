@@ -1,0 +1,31 @@
+.Pagination {
+    text-align: center;
+    margin: 20px 0;
+
+    span {
+        color: black;
+        padding: 8px 16px;
+        border: 1px solid #ddd;
+        user-select: none;
+        cursor: pointer;
+    }
+
+    span.Active {
+        background-color: rgb(59, 119, 192);;
+        color: white;
+        border: 1px solid rgb(17, 78, 153);;
+    }
+
+    span:hover:not(.Active) {
+        background-color: #ddd;
+    }
+
+    span:first-child {
+        border-top-left-radius: 5px;
+        border-bottom-left-radius: 5px;
+    }
+    span:last-child {
+        border-top-right-radius: 5px;
+        border-bottom-right-radius: 5px;
+    }
+}
